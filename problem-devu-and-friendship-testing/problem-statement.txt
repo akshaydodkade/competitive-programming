@@ -15,3 +15,9 @@ Constraints
 1 ≤ di ≤ 100
 
 Reference: https://www.codechef.com/practice/course/arrays-strings-sorting/INTARR01/problems/CFRTEST
+
+
+i => di
+
+T = test case count
+n = 
